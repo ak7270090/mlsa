@@ -31,7 +31,7 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "githu projects 🎉",
+    title: "github projects 🎉",
     description:
       "I have created many web apps like messaging apps , whatsapp clone and etc, take a look at my github profile.",
     url: "https://github.com/ak7270090/",
